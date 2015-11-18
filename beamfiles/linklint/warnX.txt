@@ -1,0 +1,28 @@
+file: warnX.txt
+host: beam.me.berkeley.edu
+date: Thu, 30 Jun 2011 14:43:18 (local)
+Linklint version: 2.3.5
+
+#------------------------------------------------------------
+# warn    1 warning (cross referenced)
+#------------------------------------------------------------
+Disallowed by robots.txt
+    occurred in
+    /misc/drupal.js?9
+    /misc/feed.png
+    /misc/jquery.js?9
+    /misc/tableheader.js?9
+    /modules/user/user.js?9
+    /sites/all/modules/calendar/jcalendar/jcalendar.js?9
+    /sites/all/modules/captcha/captcha.js?9
+    /sites/all/modules/nice_menus/nice_menus.js?9
+    /sites/all/modules/views/js/base.js?9
+    /sites/all/modules/views/js/dependent.js?9
+    /sites/all/modules/views_slideshow/contrib/views_slideshow_singleframe/views_slideshow.js?9
+    /sites/all/modules/views_slideshow/js/jquery.cycle.all.min.js?9
+    /sites/all/themes/beam/images/beam_header.png
+    /sites/all/themes/beam/images/fb_icon.png
+    /sites/all/themes/beam/images/flickr_icon.png
+    /sites/all/themes/beam/images/get_involved.png
+    /sites/all/themes/beam/images/gmail_logo.gif
+

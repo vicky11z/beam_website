@@ -1,0 +1,12 @@
+file: errorF.txt
+host: beam.me.berkeley.edu
+date: Thu, 30 Jun 2011 14:43:18 (local)
+Linklint version: 2.3.5
+
+#------------------------------------------------------------
+# ERROR   1 file had broken links
+#------------------------------------------------------------
+/resources
+    had 1 broken link
+    /resources/staff
+

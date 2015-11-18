@@ -1,0 +1,254 @@
+file: skipX.txt
+host: beam.me.berkeley.edu
+date: Thu, 30 Jun 2011 14:43:18 (local)
+Linklint version: 2.3.5
+
+#------------------------------------------------------------
+# -----  54 files skipped (cross referenced)
+#------------------------------------------------------------
+/events/2010
+    used in 1 file:
+    /events/2011
+
+/events/2011-01
+    used in 1 file:
+    /events/2011
+
+/events/2011-02
+    used in 1 file:
+    /events/2011
+
+/events/2011-02-12
+    used in 1 file:
+    /events/2011
+
+/events/2011-02-13
+    used in 1 file:
+    /events/2011
+
+/events/2011-02-20
+    used in 1 file:
+    /events/2011
+
+/events/2011-02-26
+    used in 1 file:
+    /events/2011
+
+/events/2011-03
+    used in 1 file:
+    /events/2011
+
+/events/2011-03-12
+    used in 1 file:
+    /events/2011
+
+/events/2011-03-13
+    used in 1 file:
+    /events/2011
+
+/events/2011-03-19
+    used in 1 file:
+    /events/2011
+
+/events/2011-03-20
+    used in 1 file:
+    /events/2011
+
+/events/2011-04
+    used in 1 file:
+    /events/2011
+
+/events/2011-04-16
+    used in 1 file:
+    /events/2011
+
+/events/2011-04-17
+    used in 1 file:
+    /events/2011
+
+/events/2011-04-23
+    used in 1 file:
+    /events/2011
+
+/events/2011-04-24
+    used in 1 file:
+    /events/2011
+
+/events/2011-05
+    used in 4 files:
+    /events
+    /events/2011
+    /events/2011-06
+    /events/2011-W23
+
+/events/2011-05-29
+    used in 1 file:
+    /events/2011-W23
+
+/events/2011-06-01
+    used in 2 files:
+    /events
+    /events/2011-06
+
+/events/2011-06-05
+    used in 1 file:
+    /events/2011-W24
+
+/events/2011-06-19
+    used in 1 file:
+    /events/2011-W26
+
+/events/2011-06-26
+    used in 1 file:
+    /events/2011-W27
+
+/events/2011-07
+    used in 8 files:
+    /events
+    /events/2011
+    /events/2011-06
+    /events/2011-W28
+    /events/2011-W29
+    /events/2011-W30
+    /events/2011-W31
+    /events/2011-W32
+
+/events/2011-07-03
+    used in 1 file:
+    /events/2011-W28
+
+/events/2011-07-10
+    used in 1 file:
+    /events/2011-W29
+
+/events/2011-07-17
+    used in 1 file:
+    /events/2011-W30
+
+/events/2011-07-24
+    used in 1 file:
+    /events/2011-W31
+
+/events/2011-07-31
+    used in 1 file:
+    /events/2011-W32
+
+/events/2011-08
+    used in 9 files:
+    /events/2011
+    /events/2011-08-14
+    /events/2011-08-26
+    /events/2011-08-27
+    /events/2011-08-28
+    /events/2011-09
+    /events/2011-W33
+    /events/2011-W34
+    /events/2011-W36
+
+/events/2011-08-07
+    used in 1 file:
+    /events/2011-W33
+
+/events/2011-08-13
+    used in 1 file:
+    /events/2011-08-14
+
+/events/2011-08-15
+    used in 1 file:
+    /events/2011-08-14
+
+/events/2011-08-25
+    used in 1 file:
+    /events/2011-08-26
+
+/events/2011-08-29
+    used in 1 file:
+    /events/2011-08-28
+
+/events/2011-08-31
+    used in 1 file:
+    /events/2011-09-01
+
+/events/2011-09-02
+    used in 1 file:
+    /events/2011-09-01
+
+/events/2011-09-10
+    used in 1 file:
+    /events/2011-09-11
+
+/events/2011-09-16
+    used in 2 files:
+    /events/2011-09-15
+    /events/2011-09-17
+
+/events/2011-09-19
+    used in 1 file:
+    /events/2011-09-18
+
+/events/2011-09-25
+    used in 1 file:
+    /events/2011-W40
+
+/events/2011-10-01
+    used in 1 file:
+    /events/2011-10
+
+/events/2011-10-02
+    used in 1 file:
+    /events/2011-W41
+
+/events/2011-10-07
+    used in 1 file:
+    /events/2011-10-08
+
+/events/2011-12
+    used in 3 files:
+    /events/2011
+    /events/2011-11
+    /events/2011-12-01
+
+/events/2011-12-02
+    used in 1 file:
+    /events/2011-12-01
+
+/events/2011-W22
+    used in 1 file:
+    /events/2011-W23
+
+/events/2011-W25
+    used in 4 files:
+    /events
+    /events/2011-06
+    /events/2011-W24
+    /events/2011-W26
+
+/events/2011-W35
+    used in 4 files:
+    /events/2011-08-26
+    /events/2011-08-27
+    /events/2011-W34
+    /events/2011-W36
+
+/events/2011-W37
+    used in 3 files:
+    /events/2011-09
+    /events/2011-W36
+    /events/2011-W38
+
+/events/2011-W50
+    used in 1 file:
+    /events/2011-W49
+
+/events/2012
+    used in 1 file:
+    /events/2011
+
+/node/198
+    used in 1 file:
+    /
+
+/node/251
+    used in 1 file:
+    /
+

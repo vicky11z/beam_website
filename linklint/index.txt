@@ -1,0 +1,28 @@
+file: index.txt
+host: beam.me.berkeley.edu
+date: Thu, 30 Jun 2011 14:43:18 (local)
+Linklint version: 2.3.5
+
+ summary.txt: summary of results
+     log.txt: log of progress
+     file.txt: found 711 files
+    fileX.txt: found 711 files (cross referenced)
+    fileF.txt: found 500 files with forward links
+   remote.txt: found 102 other links
+  remoteX.txt: found 102 other links (cross referenced)
+   ignore.txt: -----  17 ignored files
+  ignoreX.txt: -----  17 ignored files (cross referenced)
+   action.txt: ----- 502 actions skipped
+  actionX.txt: ----- 502 actions skipped (cross referenced)
+  skipped.txt: -----  54 files skipped
+    skipX.txt: -----  54 files skipped (cross referenced)
+     warn.txt: warn    1 warning
+    warnX.txt: warn    1 warning (cross referenced)
+    warnF.txt: warn   17 files with warnings
+    error.txt: ERROR   1 missing file
+   errorX.txt: ERROR   1 missing file (cross referenced)
+   errorF.txt: ERROR   1 file had broken links
+   errorA.txt: ERROR 1054 missing named anchors
+  errorAX.txt: ERROR 1054 missing named anchors (cross referenced)
+ httpfail.txt: -----  18 links: failed via http
+   httpok.txt: ----- 711 links: ok via http

@@ -1,0 +1,463 @@
+file: remoteX.txt
+host: beam.me.berkeley.edu
+date: Thu, 30 Jun 2011 14:43:18 (local)
+Linklint version: 2.3.5
+
+#------------------------------------------------------------
+# found  82 http links (cross referenced)
+#------------------------------------------------------------
+http://asee.org
+    used in 5 files:
+    /node/338
+    /taxonomy/term/10
+    /taxonomy/term/4
+    /taxonomy/term/5
+    /taxonomy/term/8
+
+http://beam-ucla.tumblr.com/
+    used in 1 file:
+    /node/169
+
+http://beam.berkeley.edu/node/261
+    used in 1 file:
+    /contact
+
+http://beam.berkeley.edu/resources/conferencematerials
+    used in 1 file:
+    /
+
+http://beam.berkeley.edu/resources/final_projects_list
+    used in 1 file:
+    /resources/DeCalFinalProject
+
+http://beam.berkeley.edu/sites/default/files/Fall2010LessonTemplate.pdf
+    used in 1 file:
+    /resources/DeCalFinalProject
+
+http://beam.berkeley.edu/sites/default/files/FinalProjectSpring2011.pdf
+    used in 1 file:
+    /resources/DeCalFinalProject
+
+http://beam.berkeley.edu/sites/default/files/Tips%20for%20Final%20Presentation.pdf
+    used in 1 file:
+    /resources/DeCalFinalProject
+
+http://beam.berkeley.edu/sites/default/files/calcorps_logo.jpg
+    used in 1 file:
+    /about/partners
+
+http://bioe.berkeley.edu
+    used in 1 file:
+    /about/partners
+
+http://bioehs.berkeley.edu/
+    used in 1 file:
+    /about/partners
+
+http://biology.about.com/library/organs/brain/blmedulla.htm
+    used in 1 file:
+    /node/275
+
+http://biology.about.com/od/biologylabhowtos/ht/lungmodel.htm
+    used in 1 file:
+    /node/275
+
+http://biology.about.com/od/humananatomybiology/a/anatomybrain.htm
+    used in 1 file:
+    /node/275
+
+http://calbmes.org/
+    used in 1 file:
+    /about/partners
+
+http://cheme.berkeley.edu/
+    used in 1 file:
+    /about/partners
+
+http://en.wikipedia.org/wiki/Alveoli
+    used in 1 file:
+    /node/275
+
+http://en.wikipedia.org/wiki/Bellows
+    used in 1 file:
+    /node/275
+
+http://en.wikipedia.org/wiki/Bloodstream
+    used in 1 file:
+    /node/275
+
+http://en.wikipedia.org/wiki/Breath
+    used in 1 file:
+    /node/275
+
+http://en.wikipedia.org/wiki/Bronchi
+    used in 1 file:
+    /node/275
+
+http://en.wikipedia.org/wiki/Bronchioles
+    used in 1 file:
+    /node/275
+
+http://en.wikipedia.org/wiki/Carbon_Dioxide
+    used in 1 file:
+    /node/275
+
+http://en.wikipedia.org/wiki/Carbon_dioxide
+    used in 1 file:
+    /node/275
+
+http://en.wikipedia.org/wiki/Cell_(biology)
+    used in 1 file:
+    /node/275
+
+http://en.wikipedia.org/wiki/Cystic_fibrosis
+    used in 1 file:
+    /node/275
+
+http://en.wikipedia.org/wiki/Diaphragm_(anatomy)
+    used in 1 file:
+    /node/275
+
+http://en.wikipedia.org/wiki/Diffusion
+    used in 1 file:
+    /node/275
+
+http://en.wikipedia.org/wiki/Earth's_atmosphere
+    used in 1 file:
+    /node/275
+
+http://en.wikipedia.org/wiki/Emphysema
+    used in 1 file:
+    /node/275
+
+http://en.wikipedia.org/wiki/Exercise
+    used in 1 file:
+    /node/275
+
+http://en.wikipedia.org/wiki/Heart
+    used in 1 file:
+    /node/275
+
+http://en.wikipedia.org/wiki/Hemoglobin
+    used in 1 file:
+    /node/275
+
+http://en.wikipedia.org/wiki/Larynx
+    used in 1 file:
+    /node/275
+
+http://en.wikipedia.org/wiki/Lung
+    used in 1 file:
+    /node/275
+
+http://en.wikipedia.org/wiki/Nasopharynx
+    used in 1 file:
+    /node/275
+
+http://en.wikipedia.org/wiki/Oropharynx
+    used in 1 file:
+    /node/275
+
+http://en.wikipedia.org/wiki/Oxygen
+    used in 1 file:
+    /node/275
+
+http://en.wikipedia.org/wiki/Pulmonary_alveolus
+    used in 1 file:
+    /node/275
+
+http://en.wikipedia.org/wiki/Pulmonary_artery
+    used in 1 file:
+    /node/275
+
+http://en.wikipedia.org/wiki/Red_blood_cell
+    used in 1 file:
+    /node/275
+
+http://en.wikipedia.org/wiki/Rib_cage
+    used in 1 file:
+    /node/275
+
+http://en.wikipedia.org/wiki/Spirometer
+    used in 1 file:
+    /node/275
+
+http://en.wikipedia.org/wiki/Vertebrate_trachea
+    used in 1 file:
+    /node/275
+
+http://en.wikipedia.org/wiki/Vital_capacity
+    used in 1 file:
+    /node/275
+
+http://ewh.berkeley.edu/
+    used in 1 file:
+    /about/partners
+
+http://farm6.static.flickr.com/5092/5513735653_5be08a685c_t.jpg
+    used in 3 files:
+    /blog/1
+    /blog?page=8
+    /node/232
+
+http://farm6.static.flickr.com/5099/5514331734_0323e479c1_t.jpg
+    used in 3 files:
+    /blog/1
+    /blog?page=8
+    /node/232
+
+http://farm6.static.flickr.com/5140/5513734605_75769a1e2f_t.jpg
+    used in 3 files:
+    /blog/1
+    /blog?page=8
+    /node/232
+
+http://farm6.static.flickr.com/5171/5513735339_f052f7c08c_t.jpg
+    used in 3 files:
+    /blog/1
+    /blog?page=8
+    /node/232
+
+http://hes.berkeley.edu
+    used in 1 file:
+    /about/partners
+
+http://howtosmile.org
+    used in 2 files:
+    /node/109
+    /resources/links
+
+http://lawrencehallofscience.org/visit/activities/ingenuity_lab
+    used in 1 file:
+    /
+
+http://lawrencehallofscience.org/visit/exhibits/lab
+    used in 1 file:
+    /
+
+http://lifehacker.com/5697481/five-ways-to-not-suck-at-powerpoint
+    used in 1 file:
+    /resources/DeCalFinalProject
+
+http://livestre.am/FQGY
+    used in 1 file:
+    /node/253
+
+http://me.berkeley.edu
+    used in 1 file:
+    /about/partners
+
+http://newscenter.berkeley.edu/2011/04/18/cal-day-slideshow-highlights-campuss-big-bash/
+    used in 1 file:
+    /
+
+http://pts.berkeley.edu
+    used in 1 file:
+    /about/partners
+
+http://swe.berkeley.edu
+    used in 1 file:
+    /about/partners
+
+http://teachers.egfi-k12.org/
+    used in 2 files:
+    /node/108
+    /resources/links
+
+http://www.actransit.org/maps/schedule_results.php?version_id=12&quick_line=65&Go=Go&maps_line=65&current_schedule=6337
+    used in 1 file:
+    /get-involved/volunteer
+
+http://www.asee.org/conferences-and-events/conferences/annual-conference/2011
+    used in 1 file:
+    /
+
+http://www.calasce.org
+    used in 1 file:
+    /about/partners
+
+http://www.cgiu.org/Default.asp
+    used in 3 files:
+    /blog/1
+    /blog?page=6
+    /node/253
+
+http://www.cgiu.org/media/homepage/thumbs/2011-Webcast_opening_thumb.jpg
+    used in 3 files:
+    /blog/1
+    /blog?page=6
+    /node/253
+
+http://www.ehow.com/facts_5575704_different-lung-diseases.html
+    used in 1 file:
+    /node/275
+
+http://www.facebook.com/beam.teach
+    used in 2 files:
+    /
+    /node/253
+
+http://www.flickr.com/photos/55031716@N05/
+    used in 1 file:
+    /
+
+http://www.flickr.com/photos/55031716@N05/5513734605/
+    used in 3 files:
+    /blog/1
+    /blog?page=8
+    /node/232
+
+http://www.flickr.com/photos/55031716@N05/5513735339/
+    used in 5 files:
+    /blog/1
+    /blog?page=8
+    /node/228
+    /node/232
+    /taxonomy/term/1
+
+http://www.flickr.com/photos/55031716@N05/5513735653/
+    used in 3 files:
+    /blog/1
+    /blog?page=8
+    /node/232
+
+http://www.flickr.com/photos/55031716@N05/5514331734/
+    used in 3 files:
+    /blog/1
+    /blog?page=8
+    /node/232
+
+http://www.google.com/maps/ms?f=q&source=embed&hl=en&geocode=&ie=UTF8&msa=0&msid=106000349063745566366.00048f9d5ddced1593092&ll=37.868891,-122.285385&spn=0.260184,0.439453&z=11
+    used in 1 file:
+    /about/sites
+
+http://www.lawrencehallofscience.org/geekout/
+    used in 1 file:
+    /about/partners
+
+http://www.lawrencehallofscience.org/visit/exhibits/lab
+    used in 1 file:
+    /
+
+http://www.lifehack.org/articles/technology/10-tips-for-more-effective-powerpoint-presentations.html
+    used in 1 file:
+    /resources/DeCalFinalProject
+
+http://www.livestrong.com/article/27365-happens-breathing-system-exercise/#ixzz1JuQDm7mX
+    used in 1 file:
+    /node/275
+
+http://www.mos.org/eie/
+    used in 12 files:
+    /blog/1
+    /blog?page=18
+    /node/50
+    /node/64
+    /taxonomy/term/1?page=2
+    /taxonomy/term/1?page=3
+    /taxonomy/term/1?page=4
+    /taxonomy/term/1?page=5
+    /taxonomy/term/1?page=6
+    /taxonomy/term/1?page=7
+    /taxonomy/term/6?page=11
+    /taxonomy/term/6?page=12
+
+http://www.youtube.com/watch?v=HiT621PrrO0&feature=related
+    used in 1 file:
+    /node/275
+
+http://www.youtube.com/watch?v=Na-ZvufXwng&feature=related
+    used in 1 file:
+    /node/275
+
+http://www.youtube.com/watch?v=s4sbEV1GUX4
+    used in 1 file:
+    /resources/DeCalFinalProject
+
+#------------------------------------------------------------
+# found  18 https links (cross referenced)
+#------------------------------------------------------------
+https://docs.google.com/document/pub?id=1Gh4RDNCxHlWNls3iNw_sI30DeMpsgqzaIFXJUeOK3fI
+    used in 2 files:
+    /
+    /resources/conferencematerials
+
+https://docs.google.com/leaf?id=0B5k0rBDhpkpLZjY3MDU0NzMtNWUxNC00MDM4LTlhOWYtZGM1MTBlN2ZhOTVk&hl=en_US&authkey=CLSk7okL
+    used in 1 file:
+    /resources/conferencematerials
+
+https://docs.google.com/viewer?a=v&pid=explorer&chrome=true&srcid=0B5k0rBDhpkpLNWQ4OThlZGUtNGZkNy00NTBlLWFlNzYtYjQ5ZDIyNWE2Njhj&hl=en_US&authkey=COXsgPcK
+    used in 1 file:
+    /resources/conferencematerials
+
+https://docs.google.com/wiki/Antibiotics
+    used in 1 file:
+    /node/275
+
+https://docs.google.com/wiki/Body
+    used in 1 file:
+    /node/275
+
+https://docs.google.com/wiki/Death
+    used in 1 file:
+    /node/275
+
+https://docs.google.com/wiki/Diarrhea
+    used in 1 file:
+    /node/275
+
+https://docs.google.com/wiki/Disability
+    used in 1 file:
+    /node/275
+
+https://docs.google.com/wiki/Failure_to_thrive
+    used in 1 file:
+    /node/275
+
+https://docs.google.com/wiki/Genetic_disease
+    used in 1 file:
+    /node/275
+
+https://docs.google.com/wiki/Infertility
+    used in 1 file:
+    /node/275
+
+https://docs.google.com/wiki/Lung
+    used in 1 file:
+    /node/275
+
+https://docs.google.com/wiki/Pneumonia
+    used in 1 file:
+    /node/275
+
+https://docs.google.com/wiki/Recessive
+    used in 1 file:
+    /node/275
+
+https://docs.google.com/wiki/Shortness_of_breath
+    used in 1 file:
+    /node/275
+
+https://docs.google.com/wiki/Sinusitis
+    used in 1 file:
+    /node/275
+
+https://docs.google.com/wiki/Symptom
+    used in 1 file:
+    /node/275
+
+https://e4k.berkeley.edu/
+    used in 1 file:
+    /node/213
+
+#------------------------------------------------------------
+# found   2 mailto links (cross referenced)
+#------------------------------------------------------------
+mailto:lisatownsend@berkeley.edu
+    used in 1 file:
+    /node/213
+
+mailto:neil.ray@berkeley.edu
+    used in 1 file:
+    /node/341
+

@@ -1,0 +1,22 @@
+file: summary.txt
+host: beam.me.berkeley.edu
+date: Thu, 30 Jun 2011 14:43:18 (local)
+Linklint version: 2.3.5
+
+Linklint found 711 files and checked 500 html files.
+There was 1 missing file. 1 file had broken links.
+1055 errors, 1 warning.
+
+found   1 default index
+found  63 cgi files
+found  14 image files
+found 633 other files
+found  82 http links
+found  18 https links
+found   2 mailto links
+-----  17 ignored files
+----- 502 actions skipped
+-----  54 files skipped
+warn    1 warning
+ERROR   1 missing other file
+ERROR 1054 missing named anchors

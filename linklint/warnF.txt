@@ -1,0 +1,76 @@
+file: warnF.txt
+host: beam.me.berkeley.edu
+date: Thu, 30 Jun 2011 14:43:18 (local)
+Linklint version: 2.3.5
+
+#------------------------------------------------------------
+# warn   17 files with warnings
+#------------------------------------------------------------
+/misc/drupal.js?9
+    had 1 warning
+    Disallowed by robots.txt
+
+/misc/feed.png
+    had 1 warning
+    Disallowed by robots.txt
+
+/misc/jquery.js?9
+    had 1 warning
+    Disallowed by robots.txt
+
+/misc/tableheader.js?9
+    had 1 warning
+    Disallowed by robots.txt
+
+/modules/user/user.js?9
+    had 1 warning
+    Disallowed by robots.txt
+
+/sites/all/modules/calendar/jcalendar/jcalendar.js?9
+    had 1 warning
+    Disallowed by robots.txt
+
+/sites/all/modules/captcha/captcha.js?9
+    had 1 warning
+    Disallowed by robots.txt
+
+/sites/all/modules/nice_menus/nice_menus.js?9
+    had 1 warning
+    Disallowed by robots.txt
+
+/sites/all/modules/views/js/base.js?9
+    had 1 warning
+    Disallowed by robots.txt
+
+/sites/all/modules/views/js/dependent.js?9
+    had 1 warning
+    Disallowed by robots.txt
+
+/sites/all/modules/views_slideshow/contrib/views_slideshow_singleframe/views_slideshow.js?9
+    had 1 warning
+    Disallowed by robots.txt
+
+/sites/all/modules/views_slideshow/js/jquery.cycle.all.min.js?9
+    had 1 warning
+    Disallowed by robots.txt
+
+/sites/all/themes/beam/images/beam_header.png
+    had 1 warning
+    Disallowed by robots.txt
+
+/sites/all/themes/beam/images/fb_icon.png
+    had 1 warning
+    Disallowed by robots.txt
+
+/sites/all/themes/beam/images/flickr_icon.png
+    had 1 warning
+    Disallowed by robots.txt
+
+/sites/all/themes/beam/images/get_involved.png
+    had 1 warning
+    Disallowed by robots.txt
+
+/sites/all/themes/beam/images/gmail_logo.gif
+    had 1 warning
+    Disallowed by robots.txt
+
